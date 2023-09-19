@@ -10,4 +10,7 @@ The source of the dataset is from the Department of Statistics Malaysia. The var
 
 # Methodology
 # Data Preprocessing
-Data preprocessing is the concept of changing the raw data into a clean data set. The dataset is preprocessed in order to check missing values, noisy data, and other inconsistencies before executing it to the algorithm.
+Data preprocessing is the concept of changing the raw data into a clean data set before it is analyzed or used for modeling in a data analysis or machine learning project. The dataset is preprocessed in order to check missing values, noisy data, and other inconsistencies before executing it to the algorithm. Data preprocessing involves several task, including data cleaning, data reduction, data splitting and more. Data preprocessing is an important step in the data analysis because it helps improve the quality of the data, reduces risk of modeling error, and enhances performances of machine learning models.
+# Exploratory Data Analysis
+Exploratory Data Analysis (EDA) is an approach to analyzing nad visualizing data sets to summarize their main characteristics with the help of statistical graph and data visualization techniques and tools. For instance descriptive statistics, histogram and scatter plot. EDA often leads to valuable insights and hypotheses that can guide more in-depth analyses.
+# Data Visualization
