@@ -105,7 +105,8 @@ Predictive modeling refers to the process of building and evaluating machine lea
 
 # Workflow
 
-![workflow](https://github.com/Valarmathy08/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848560/e3afe3b6-c40c-4632-8fa5-bc1ea875cc52)
+![workflow](https://github.com/Valarmathy08/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848560/a21a94e0-29fd-4ac4-ab76-2ba0c45c59f8)
+
 
 # Results
 ### Statistic
@@ -129,12 +130,6 @@ The pie chart shows different color for different stations in Pahang and the num
 ### Scorer
 
 ![scorer](https://github.com/Valarmathy08/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848560/b43e4822-b6f3-4e34-bf24-372964f4b457)
-
-### Scatter plot
-This scatter plot is based on the prediction from decison tree predictor.
-
-![scatter plot](https://github.com/Valarmathy08/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848560/87170ca5-fc21-44be-9313-0fe23436d93c)
-
 
 ### Scatter plot
 The x-axis shows the year and the y-axis shows the air quality status(good).
