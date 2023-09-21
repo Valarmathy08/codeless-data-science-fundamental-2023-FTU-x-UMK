@@ -139,7 +139,8 @@ This scatter plot is based on the prediction from decison tree predictor.
 ### Scatter plot
 The x-axis shows the year and the y-axis shows the air quality status(good).
 
-![scatter plot](https://github.com/Valarmathy08/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848560/c1b2ec74-9793-4d99-b14f-8ea0355517d1)
+![scatter plot](https://github.com/Valarmathy08/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848560/952d03b0-42d4-4781-b17e-29cd0cbae280)
+
 
 ### Scatter matrix
 
